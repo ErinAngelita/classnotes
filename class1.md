@@ -12,7 +12,13 @@
 `git status` - to see that changes have been updated
 `git commit -m "string"`
 `git status`
-`git push origin branch its on` - master, tekl
+`git push origin branch its on` - master, tekl_branch
 `git status` - if nothing to commit then type
 `git checkout master`- makes sure your branch is up to updated
 `git pull origin master`
+### Creating a new  branch
+`git status`
+`git checkout -b "string"` - creates name of your branch
+`git commit -m "string"` -
+`git status`
+`git push origin whatever branch` - check out changes on localhost
